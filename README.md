@@ -1,6 +1,5 @@
-「先生，人生相談です」
+Hi there i'm StaR4y
 
+![GitHub Stats Card](https://ghstats.dev/api/card?username=StaR4y&theme=radical&show_ring=false&hide_border=true&border_radius=3&size=compact&compact_count=3)
 
-<img   align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StaR4y&locale=en&line_height=33&theme=radical&langs_count=5&layout=compact"/>
-
-<img   align="right" src="https://github-readme-stats.vercel.app/api?username=StaR4y&locale=en&line_height=33&show_icons=true&hide=&theme=radical&rank_icon=default"/>
+![Top Languages](https://ghstats.dev/api/langs?username=StaR4y&theme=radical&hide_border=true&border_radius=3)
